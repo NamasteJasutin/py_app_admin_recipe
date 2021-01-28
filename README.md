@@ -1,5 +1,5 @@
 # Run Py2App and PyInstaller with Administrative Privilages on MacOs using AppleScript as a middleman.
-MacOS .App Administrator Recicipe
+MacOS .App Administrator Recicipe for use with PyInstaller or Py2App. Supports PyQT based applications.
 
 I simply wasn't able to find this online and have found a solution leveraging AppleScript as a middleman.
 
