@@ -1,0 +1,6 @@
+set myPath to POSIX path of (path to me) as string
+try
+	do shell script quoted form of myPath & "Contents/Resources/Scripts/App" with administrator privileges
+on error errmsg number errnr
+	display dialog errnr & ": " & errmsg
+end try
