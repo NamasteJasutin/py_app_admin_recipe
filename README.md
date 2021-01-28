@@ -189,7 +189,6 @@ Replace `applet.icns` with your own.
 # Signing
 I don't know anything of signing myself, but from what I know, these tools where used to sign the ones I made;
 
-[Entitlements](https://gist.githubusercontent.com/txoof/0636835d3cc65245c6288b2374799c43/raw/8b181198b374ca269a2347857f5526620458b3ac/
-entitlements.plist)
+[Entitlements.plist](https://gist.githubusercontent.com/txoof/0636835d3cc65245c6288b2374799c43/raw/8b181198b374ca269a2347857f5526620458b3ac/entitlements.plist)
 
 [SDNotary](https://latenightsw.com/sd-notary-notarizing-made-easy/)
