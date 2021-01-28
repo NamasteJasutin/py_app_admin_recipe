@@ -103,9 +103,7 @@ This will create an Application in /dist/, which I'll call `Your.app` from now.
 Please test the application first. If anything fails at this step, you should debug this before you continue.
 
 
-
 Now we'll have to modify and mix this with the AppleScript.
-
 
 
 From the Py2App folder, download `main.scpt.txt` and save as `main.scpt`.
@@ -178,7 +176,6 @@ If not; 🤷 Try to use logging in python.
 
 Did it work when you created the executable from py2app?
 
-
 #
 # Add icon to your .App
 
@@ -188,12 +185,11 @@ Go into your Application Package Contents, navigate to `Contents/Resources/`.
 
 Replace `applet.icns` with your own.
 
-
 #
 # Signing
 I don't know anything of signing myself, but from what I know, these tools where used to sign the ones I made;
 
-[Entitlements.plist](https://gist.githubusercontent.com/txoof/0636835d3cc65245c6288b2374799c43/raw/8b181198b374ca269a2347857f5526620458b3ac/
+[Entitlements](https://gist.githubusercontent.com/txoof/0636835d3cc65245c6288b2374799c43/raw/8b181198b374ca269a2347857f5526620458b3ac/
 entitlements.plist)
 
 [SDNotary](https://latenightsw.com/sd-notary-notarizing-made-easy/)
