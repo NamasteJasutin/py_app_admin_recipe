@@ -193,4 +193,3 @@ I don't know anything of signing myself, but from what I know, these tools where
 entitlements.plist)
 
 [SDNotary](https://latenightsw.com/sd-notary-notarizing-made-easy/)
-
